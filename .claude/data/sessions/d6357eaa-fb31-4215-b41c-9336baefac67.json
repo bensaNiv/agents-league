@@ -1,0 +1,6 @@
+{
+  "session_id": "d6357eaa-fb31-4215-b41c-9336baefac67",
+  "prompts": [
+    "When running my claude code (and not the radar agent my claude code session like this one) \\\nI xconfigured hooks that notify me at each point with text to sepach\\\nfor some reason they stopped notifying me, please go over the .claude directoy and run some debug over the hooks "
+  ]
+}

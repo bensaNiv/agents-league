@@ -1,0 +1,7 @@
+{
+  "session_id": "3a7155f4-c590-40ca-bb83-237832692560",
+  "prompts": [
+    "In a different git worktree I am implemnting an add of a new paraemeter for an agent that comes from the radar \\\nI want to explaine to the claude code agent there where do they need to update and how, \\\ngo over the code and explaine to me where is the place in the code and the place in the tests that is responsible for the agent configuration "
+  ],
+  "agent_name": "Axiom"
+}

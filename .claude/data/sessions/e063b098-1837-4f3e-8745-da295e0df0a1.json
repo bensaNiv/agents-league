@@ -1,0 +1,8 @@
+{
+  "session_id": "e063b098-1837-4f3e-8745-da295e0df0a1",
+  "prompts": [
+    "Go over the git history and find what happened to the DATABASE_DESIGN ",
+    "When looking at the @src/ we have a folder named radar_triage_agent in there its a complete replica of the other folder, go over the project and explaine to me the structure\\\n\\\nDo we use database?\\\nwhati is the current design? "
+  ],
+  "agent_name": "Lumen"
+}

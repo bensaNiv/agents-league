@@ -1,0 +1,20 @@
+{
+  "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+  "prompts": [
+    "I want to see the voice answer activate so I want you to plan somthing random like add logs and wait for an input from me\\\nthat way i can see if the voice text to sepach hook wroks ",
+    "The voice text to speach hooks isnt working even when you are waiting for a respondse from me go over the .claude direftory and tell me what might cause this",
+    "2. Modify UserPromptSubmit - Remove --log-only flag and add TTS logic (but this speaks BEFORE I respond, not after)",
+    "we have the notification.py in the hooks directory\\\nlook at the settings.json and tell me which hooks uses it\\\nthis file is supposed to generate a text to speach using the local model ",
+    "change to if args.notify:",
+    "test it and wait for a prompt from me",
+    "its still not working, is there a way to debug this flow?",
+    "what command are you running to run all of these hooks?",
+    "how can I make sure that the uv has all of the packages before claude code runs with it (the issue is that we are in a sandbox so uv cant fetch the packages) ",
+    "I want to run uv sync and then change the commands from uv to venv commands (that way we already compiled the packages and we can run without leaving hte sandbox) ",
+    "I already ran uv sync, just make sure that the pyproject has all of the hooks dependesiesc (under dev) and then I will run uv and we will test it \\\ndont run the uv command youself ",
+    "this solution is no good please us the uv run --no-sync flag in all of the uv run commands we have in the settings\\\nonce I run the uv sync prior this should solve this isse",
+    "why do we need openai? ",
+    "i am ready to test"
+  ],
+  "agent_name": "Nebula"
+}

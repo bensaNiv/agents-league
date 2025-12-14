@@ -1,0 +1,8 @@
+{
+  "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+  "prompts": [
+    "I want you to update the descripiton for the tester agent \\\nright now the description is like so:\\\n Use proactively to generate comprehensive unit and integration tests for existing code with high coverage across happy path, edge cases, and error handling.\\\n\\\nI want this agent to not only be activate proactivly but that the claude main agent will use it when he needs to :\\\ngenerate comprehensive unit and integration tests for existing code with high coverage across happy path, edge cases, and error handling.\\\nand run tests and seeing where is the issues.\\\n\\\nadd to it also that he runs tests using uv run --no-sync --offline to run any testing script that exists ",
+    "Runs tests using `uv run --no-sync --offline` for any existing test scripts.\\\n\\\nthis shouldt be in the description but the description should include that this agent is also for running tests.\\\nthe Runs tests using `uv run --no-sync --offline` for any existing test scripts.\\\nwill be in the instructions of the agent ",
+    "Add to the agent so that when running tests always have a timeout to see that the tests arent stuck. "
+  ]
+}

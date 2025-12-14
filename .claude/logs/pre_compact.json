@@ -1,0 +1,18 @@
+[
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "PreCompact",
+    "trigger": "auto",
+    "custom_instructions": null
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "PreCompact",
+    "trigger": "auto",
+    "custom_instructions": null
+  }
+]

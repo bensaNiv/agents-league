@@ -1,0 +1,6 @@
+{
+  "session_id": "1c1ac9de-08c5-4836-bf25-571215864cdc",
+  "prompts": [
+    "create a claude code agent expert using the create-expert-agent \\\nthe agent will be a claude code expert that will answer any questions reagrding to claude code, in terms of prompts design suggestions best practices python adn typescript SDK usages and in generall all thigns claude code if the user asks somthing reagrding claude code then this agent must be used.\\\nthe knoledge path is:\\\n/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/indexed_documents/claude-code-expert"
+  ]
+}

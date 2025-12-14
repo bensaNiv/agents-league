@@ -1,0 +1,12 @@
+{
+  "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+  "prompts": [
+    "go over the implementation tasks in @MULTI_REPO_IMPLEMENTATION_PLAN.md \\\n  understand what needs to be done, use youre subagents to delegate udnerstanding and core planning functionality tasks to them.\\\n  If somthing is unclear ask me. \\\n\\\nimplement the plan written ther.\\\nif you have any questions ask me.",
+    "when you wnat to run uv run commands make sure to run them with the flags:\\\n--no-sync --offline ",
+    "How can I run the new tests\\\nwhat were the changes that were made\\\nwas the database tables updated\\\nwhy do we need backwards compatibility?",
+    "how cna I run all of the tests (unit tests) ",
+    "We dont need backwards compatibility for this, we are in alpha stages so we dont need any backwards compatibility for now we dont have clients yet",
+    "yes show me a plan of action for me to approve "
+  ],
+  "agent_name": "Astra"
+}

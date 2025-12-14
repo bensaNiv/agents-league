@@ -1,0 +1,8 @@
+{
+  "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+  "prompts": [
+    "extract the run_tests skill to this projects .claude directory ",
+    "I have the create-project-readme.md as a SKILL and the run-tests skill is in a directory named run-tests and the markdown file is named SKILL.md why are they different "
+  ],
+  "agent_name": "Aether"
+}

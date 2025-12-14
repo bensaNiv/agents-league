@@ -1,0 +1,9 @@
+{
+  "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+  "prompts": [
+    "I want to add a feature to have the ability to configure per agent multiple code repo's\\\nWe need to add them to the configuration, check if the database table structure is compatibale for it, if we have unit tests that test this.\\\nWe will also need to have the claude agent configuration that we have pre built have it say to get all of the code repo's that exists there.\\\nCreate an implementation plan and move it to a markdown file, this plan will be used by other agents of you",
+    "I want you to divide the plan into possible concurrent plans for each agent, for example what tests needs to be created\\\nwhat desin can be done in parralell (for example the database cahnge and the configuration change are not connected)\\\nat the end write to me how many agents can  activate ",
+    "Change it, I dont want any manager agents, just write the plan without any parralizers \\\nwe will let the claude code main agent decide how to delegate the tasks"
+  ],
+  "agent_name": "Apexar"
+}

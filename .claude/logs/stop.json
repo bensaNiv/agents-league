@@ -1,0 +1,1285 @@
+[
+  {
+    "session_id": "fbbba51f-7a97-4233-8104-550709fa3d0a",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fbbba51f-7a97-4233-8104-550709fa3d0a.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0f1debf5-3803-4d09-b0a5-77a9d2e98c0c",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0f1debf5-3803-4d09-b0a5-77a9d2e98c0c.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0f1debf5-3803-4d09-b0a5-77a9d2e98c0c",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0f1debf5-3803-4d09-b0a5-77a9d2e98c0c.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0f1debf5-3803-4d09-b0a5-77a9d2e98c0c",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0f1debf5-3803-4d09-b0a5-77a9d2e98c0c.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/7592af79-6c95-4692-8ecd-b491a6cb982e.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/7592af79-6c95-4692-8ecd-b491a6cb982e.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/7592af79-6c95-4692-8ecd-b491a6cb982e.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/7592af79-6c95-4692-8ecd-b491a6cb982e.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/7592af79-6c95-4692-8ecd-b491a6cb982e.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "07ace9e5-9f3f-47af-8b8a-abb491a7b779",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/07ace9e5-9f3f-47af-8b8a-abb491a7b779.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "07ace9e5-9f3f-47af-8b8a-abb491a7b779",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/07ace9e5-9f3f-47af-8b8a-abb491a7b779.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "07ace9e5-9f3f-47af-8b8a-abb491a7b779",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/07ace9e5-9f3f-47af-8b8a-abb491a7b779.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "3bcd2af6-a5d2-4098-b951-169ed64ab6e1",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/3bcd2af6-a5d2-4098-b951-169ed64ab6e1.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "698e64e1-413b-4675-9222-c613ef6cefea",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/698e64e1-413b-4675-9222-c613ef6cefea.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "32846b99-5523-492e-96a6-eaa4b573e357",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/32846b99-5523-492e-96a6-eaa4b573e357.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0d707033-3ae8-436d-b74c-c65537d1df78",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0d707033-3ae8-436d-b74c-c65537d1df78.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0d707033-3ae8-436d-b74c-c65537d1df78",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0d707033-3ae8-436d-b74c-c65537d1df78.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0d707033-3ae8-436d-b74c-c65537d1df78",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0d707033-3ae8-436d-b74c-c65537d1df78.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl"
+  },
+  {
+    "session_id": "test2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl"
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "test_fixed",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl"
+  },
+  {
+    "session_id": "test_urllib",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "generated_summary": "Generated a concise summary sentence for the user."
+  },
+  {
+    "session_id": "final_test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "generated_summary": "Crafted a concise summary sentence for the conversation."
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": true
+  },
+  {
+    "session_id": "dummy_test_$(date +%s)",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Outlined guidelines for one-sentence past-tense conversation summaries."
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented the user-requested functionality as described."
+  },
+  {
+    "session_id": "final_fix_test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "generated_summary": "No tasks were performed."
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Provided a single\u2011sentence summary of the conversation."
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Summarized the AI coding assistant\u2019s actions in a concise sentence."
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created conversation summarizer utility."
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented user-specified functionality as per conversation."
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "No changes were implemented."
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Updated implementation plan with task-based structure"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Removed backward compatibility migration code"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Updated tester agent configuration"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "c2471afa-abf1-48d6-844f-db8fbedcf1de",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c2471afa-abf1-48d6-844f-db8fbedcf1de.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Resolved import errors, updated test fixtures"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added timeout instructions to tester agent"
+  },
+  {
+    "session_id": "e0801c25-15f2-48ce-a223-0ec6d222db34",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e0801c25-15f2-48ce-a223-0ec6d222db34.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added colors to all subagents."
+  },
+  {
+    "session_id": "f8d7ca21-3167-4b16-8956-07ef0fdf44f2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/f8d7ca21-3167-4b16-8956-07ef0fdf44f2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Fixed test isolation, interactions, and logging"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Deleted two e2e test methods"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Described patch decorator for unit tests"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created run-tests skill for uv testing"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Installed run-tests skill for testing"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Fixed test patching and fixture updates"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Enabled auto\u2011invocation of matching skills"
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Removed missing Claude stop hook"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Fixed multi-repo refactoring test failures"
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Identified missing __init__.py files in utils directory"
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created __init__ files for hooks directories"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Extracted run-tests skill to .claude"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created directory-based skill file structure"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented async config and test fixes"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Used run-tests skill instead of Bash"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Suggested adding note to CLAUDE.md"
+  },
+  {
+    "session_id": "c6a6ceea-84a8-42cd-be75-33e8309e95d0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c6a6ceea-84a8-42cd-be75-33e8309e95d0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented multi-message extraction, updated summarizer prompts and limits, and raised Ollama token capacity for concise TTS summaries."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Fixed repo_urls bug in RadarConfig, ran 125 tests, and resolved all failures for a stable build."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Fixed the repo_urls bug, updated test expectations, added missing directories, removed async usage, and ensured all 125 tests passed."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Reorganized all unit tests to mirror source modules, preserved 125 passing test suite, and set up clear unit/integration/e2e separation."
+  },
+  {
+    "session_id": "3a7155f4-c590-40ca-bb83-237832692560",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/3a7155f4-c590-40ca-bb83-237832692560.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Documented the agent configuration flow, covering the data model, persistence, CLI parsing, and tests, then mapped the steps needed to add new radar parameters."
+  },
+  {
+    "session_id": "d8466721-3eb0-4c22-bec0-e70fa3831cf0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d8466721-3eb0-4c22-bec0-e70fa3831cf0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Resolved all 11 pytest warnings by updating Pydantic configurations, replacing deprecated authentication, and converting test returns to assertions, ensuring 125 tests pass."
+  },
+  {
+    "session_id": "55e04c81-f9a9-4d87-a66d-c59649b85dfe",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/55e04c81-f9a9-4d87-a66d-c59649b85dfe.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Replaced invalid repo URL placeholders with valid https URLs, eliminating validation errors during agent creation and editing."
+  },
+  {
+    "session_id": "ce7dfc83-feb9-4179-86be-f5bd55e42576",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/ce7dfc83-feb9-4179-86be-f5bd55e42576.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Investigated TTS failures in radar subprocesses, pinpointed subprocess isolation and missing callbacks, and outlined a fix."
+  },
+  {
+    "session_id": "e063b098-1837-4f3e-8745-da295e0df0a1",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e063b098-1837-4f3e-8745-da295e0df0a1.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Reviewed commits, detected removal of database layer, documented modern file\u2011based persistence, and identified redundant directories to delete."
+  },
+  {
+    "session_id": "e9a33f5d-1441-4c00-a8c8-4b7c9bad515f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e9a33f5d-1441-4c00-a8c8-4b7c9bad515f.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented classification support, fixed critical bugs, added CLI and interactive prompts, updated display, and wrote comprehensive tests."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created an 890\u2011line README.md detailing dependencies, hook usage, skill documentation, plugin catalog, and troubleshooting steps."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Created .gitignore, simplified installation steps, removed extraneous sections from README, reduced it by two\u2011thirds, and linked to Claude Code docs."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Replaced spacing/tabs in directory listing with proper tree symbols via sed, and verified the corrected structure."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Listed all active hooks, utilities, and error logs, confirmed executability, and offered to examine specific hook content."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Checked project hooks, identified active scripts, and updated .claude/settings.json to prepend python for all command executions."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Repaired TTS hook by making thread non\u2011daemon and adding timeout join."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Modified TTS hooks to non-daemon threads and extended timeout to thirty seconds."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Optimized TTS hooks, made async, cut message count, fixed thread handling."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Identified missing TTS because Popen returned immediately, not waiting."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Replaced Popen with subprocess.run, enabling full TTS playback."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Verified TTS hook execution and logged summary output."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Confirmed TTS script playback, verified voice output functionality."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added comprehensive debug logging to hooks, enabling diagnosis."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added detailed debug logging to stop hook for TTS subprocess monitoring."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Configured TTS hooks to run offline, removing network errors."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Reconfigured subprocess calls to run TTS in offline mode."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Optimized TTS to offline mode, reducing delay to 3\u201110 seconds."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Optimized TTS hooks, removed duplicate summaries, and fixed startup delay."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Confirmed only one TTS announcement triggered after file creations."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Implemented single\u2011TTS announcement hook and optimized summary generation."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Generated one-sentence summary of TTS optimization and performance improvements."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Generated 500x500 red image and saved to desktop."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Replaced threaded notification with synchronous flow, ensured TTS execution."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Simplified notification hook to synchronous flow, ensuring reliable TTS and error logging."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "TTS notification and subagent stop hook executed flawlessly."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added .git/logs/ to gitignore, ensuring git log files are ignored."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Reverted gitignore to track .git/logs/ while ignoring .claude/logs/."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Removed .claude/logs from git, updated TTS hooks, cleaned settings."
+  },
+  {
+    "session_id": "f91d6c05-e6f6-4f37-a948-8bb4c48e78bc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/f91d6c05-e6f6-4f37-a948-8bb4c48e78bc.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added --notify flag to stop hook command for TTS."
+  },
+  {
+    "session_id": "f91d6c05-e6f6-4f37-a948-8bb4c48e78bc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/f91d6c05-e6f6-4f37-a948-8bb4c48e78bc.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Identified missing --notify flag in stop hook configuration."
+  },
+  {
+    "session_id": "f91d6c05-e6f6-4f37-a948-8bb4c48e78bc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/f91d6c05-e6f6-4f37-a948-8bb4c48e78bc.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added --notify flag to enable TTS announcements upon session stop."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Tested TTS stop hook by ending session to trigger output."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Provided test messages for TTS stop hook verification."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Resolved dual TTS output by analyzing hook conflict."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "plan",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Unified TTS hooks, removed threading, eliminated overlapping speech."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Unified stop and notification hooks with synchronous logic, removed duplicate TTS."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Unified TTS hooks, removed threading, implemented synchronous flag logic."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Integrated comprehensive PRP documentation into README, outlining workflow and commands."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Added comprehensive PRP documentation to README, including commands."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Drafted comprehensive questions for defining expert agent creation workflow."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "generated_summary": "Designed reusable skill framework for expert agent creation."
+  }
+]

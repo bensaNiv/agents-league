@@ -1,0 +1,6 @@
+{
+  "session_id": "a4b5fb07-12c4-4dcb-987e-1da85a2f0616",
+  "prompts": [
+    "I want to change the hook that uses text to speach, until now We are taking a few messages back and summerzing them using open source ollama \\\nI want now to take only the last 1\\\n\\\ngo over the code in the @.claude/hooks/ directory and ask any question you need before you create a plan of action "
+  ]
+}

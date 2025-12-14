@@ -1,0 +1,7 @@
+{
+  "session_id": "ce7dfc83-feb9-4179-86be-f5bd55e42576",
+  "prompts": [
+    "why when claude agents finish tasks I dont hear the text to speach summarry ",
+    "look the .claude directory on the hooks and the tools and tell me how it works with the notification.py and conversation summerizer \\\n\\\nit worked just a minute ago "
+  ]
+}

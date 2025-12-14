@@ -1,0 +1,1536 @@
+[
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/492e88e9-0a1b-4459-9f35-7bb0dfcfee00.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/8f407c79-6ca5-4d6f-9e42-a452d831f744.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Skill",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "a7489ee4-f678-441a-9dd6-57df4a9e4390",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/a7489ee4-f678-441a-9dd6-57df4a9e4390.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0bd9cbf8-4038-4f02-8192-4f945734ccdc.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "3bcd2af6-a5d2-4098-b951-169ed64ab6e1",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/3bcd2af6-a5d2-4098-b951-169ed64ab6e1.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "698e64e1-413b-4675-9222-c613ef6cefea",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/698e64e1-413b-4675-9222-c613ef6cefea.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "32846b99-5523-492e-96a6-eaa4b573e357",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/32846b99-5523-492e-96a6-eaa4b573e357.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "test": "notification test",
+    "timestamp": "2025-12-01"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "test": "notification",
+    "message": "testing TTS"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "test": "notification",
+    "message": "testing TTS"
+  },
+  {
+    "test": "notification",
+    "message": "testing TTS"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "98c12cb4-cb60-4c65-aa82-92b79a90dbc2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/98c12cb4-cb60-4c65-aa82-92b79a90dbc2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "cd3977ca-2685-4af2-b0d4-8907a55e18dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "manual_test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification"
+  },
+  {
+    "session_id": "manual_test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/cd3977ca-2685-4af2-b0d4-8907a55e18dd.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "c2471afa-abf1-48d6-844f-db8fbedcf1de",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c2471afa-abf1-48d6-844f-db8fbedcf1de.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "c2471afa-abf1-48d6-844f-db8fbedcf1de",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c2471afa-abf1-48d6-844f-db8fbedcf1de.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for migration test design details"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for migration test removal details"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for updated tester agent configuration"
+  },
+  {
+    "session_id": "fcee83c2-7c9c-418a-b71a-92f03a86c412",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fcee83c2-7c9c-418a-b71a-92f03a86c412.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for new tests confirming removal"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for updated configuration file"
+  },
+  {
+    "session_id": "814c2ed3-77b9-4caa-90fb-38c0129b8bb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/814c2ed3-77b9-4caa-90fb-38c0129b8bb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for test file or script path."
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test file path"
+  },
+  {
+    "session_id": "c2471afa-abf1-48d6-844f-db8fbedcf1de",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c2471afa-abf1-48d6-844f-db8fbedcf1de.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for the logger parameter"
+  },
+  {
+    "session_id": "4f21c826-d4e2-4b32-abe3-5876601a9fb3",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4f21c826-d4e2-4b32-abe3-5876601a9fb3.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for test suite timeout settings"
+  },
+  {
+    "session_id": "f8d7ca21-3167-4b16-8956-07ef0fdf44f2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/f8d7ca21-3167-4b16-8956-07ef0fdf44f2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user approval to share plan"
+  },
+  {
+    "session_id": "e0801c25-15f2-48ce-a223-0ec6d222db34",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e0801c25-15f2-48ce-a223-0ec6d222db34.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for subagent color confirmation"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test case definitions."
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for detailed CLI test scripts."
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test suite completion feedback"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test suite execution confirmation"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Skill",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for final test suite completion"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for updated todo list"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test method removal instructions"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for updated todo list"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for updated test case documentation"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for clarified project requirements."
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for detailed function specifications"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for detailed explanation and plan"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test failure summary"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for location of run-tests zip"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for updated test fixture names"
+  },
+  {
+    "session_id": "5114911a-88b9-4a0c-945c-1d8ce460b015",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/5114911a-88b9-4a0c-945c-1d8ce460b015.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for precise test invocation instructions"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for code snippet to test"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for updated test case details"
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for hook file creation"
+  },
+  {
+    "session_id": "0921c4d7-82e8-4f10-ac8a-56d4dec81fa7",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/0921c4d7-82e8-4f10-ac8a-56d4dec81fa7.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for table display specification details"
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for missing __init__.py files in utils directory."
+  },
+  {
+    "session_id": "020eb0b9-3762-4498-9fc8-318712a9e805",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/020eb0b9-3762-4498-9fc8-318712a9e805.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for missing __init__.py files"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test assertions and validation updates"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for complete requirements specification"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for target directory path"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user-provided test data"
+  },
+  {
+    "session_id": "627cc15c-7dc8-47cd-8fe9-5661fa946af8",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/627cc15c-7dc8-47cd-8fe9-5661fa946af8.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for virtual env location"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for path to old file"
+  },
+  {
+    "session_id": "4903d3e7-b365-421a-80c0-5816950f7ef2",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/4903d3e7-b365-421a-80c0-5816950f7ef2.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for new skill details"
+  },
+  {
+    "session_id": "c6a6ceea-84a8-42cd-be75-33e8309e95d0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c6a6ceea-84a8-42cd-be75-33e8309e95d0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user clarifications on requirements"
+  },
+  {
+    "session_id": "c6a6ceea-84a8-42cd-be75-33e8309e95d0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c6a6ceea-84a8-42cd-be75-33e8309e95d0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for final technical specifications"
+  },
+  {
+    "session_id": "c6a6ceea-84a8-42cd-be75-33e8309e95d0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/c6a6ceea-84a8-42cd-be75-33e8309e95d0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for confirmation on how many assistant messages to include in the summary."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Skill",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for clarification on mock_sleep side_effect sequence and expected error_count behavior to correct test."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for user approval to merge the fixes and deploy the updated application."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for instructions on which deprecation warnings to prioritize and whether to generate a coverage report."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user to specify which warnings to address first and whether to run coverage analysis."
+  },
+  {
+    "session_id": "9d5e4262-55c4-47dd-9d77-75fb6f6c3958",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/9d5e4262-55c4-47dd-9d77-75fb6f6c3958.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for clarification on which warnings to fix first and whether to run coverage analysis."
+  },
+  {
+    "session_id": "3a7155f4-c590-40ca-bb83-237832692560",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/3a7155f4-c590-40ca-bb83-237832692560.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for the new radar parameter\u2019s name, data type, and validation constraints.  \nAlso confirm which CLI arguments, configuration templates, and tests should be updated to include this parameter."
+  },
+  {
+    "session_id": "d8466721-3eb0-4c22-bec0-e70fa3831cf0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d8466721-3eb0-4c22-bec0-e70fa3831cf0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user approval to implement plan for resolving all 11 pytest warnings."
+  },
+  {
+    "session_id": "d8466721-3eb0-4c22-bec0-e70fa3831cf0",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d8466721-3eb0-4c22-bec0-e70fa3831cf0.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for user confirmation to commit the resolved warnings, adopt the updated authentication strategy, and approve the revised test suite."
+  },
+  {
+    "session_id": "55e04c81-f9a9-4d87-a66d-c59649b85dfe",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/55e04c81-f9a9-4d87-a66d-c59649b85dfe.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for the correct repository URLs to resolve the agent creation flow error."
+  },
+  {
+    "session_id": "55e04c81-f9a9-4d87-a66d-c59649b85dfe",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/55e04c81-f9a9-4d87-a66d-c59649b85dfe.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for verification that the repository URL validation errors are eliminated."
+  },
+  {
+    "session_id": "ce7dfc83-feb9-4179-86be-f5bd55e42576",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/ce7dfc83-feb9-4179-86be-f5bd55e42576.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for guidance on routing Claude subprocess TTS to the main terminal and enabling task completion alerts."
+  },
+  {
+    "session_id": "ce7dfc83-feb9-4179-86be-f5bd55e42576",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/ce7dfc83-feb9-4179-86be-f5bd55e42576.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for directive to add TTS notification on radar agent completion."
+  },
+  {
+    "session_id": "d6357eaa-fb31-4215-b41c-9336baefac67",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d6357eaa-fb31-4215-b41c-9336baefac67.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for the hooks configuration file from your .claude directory and details on the failure."
+  },
+  {
+    "session_id": "fba1f908-73e1-471b-abb8-4b6b71b3689b",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/fba1f908-73e1-471b-abb8-4b6b71b3689b.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for your choice between manually deleting the orphaned agent directory or adding code to enforce consistency."
+  },
+  {
+    "session_id": "d6357eaa-fb31-4215-b41c-9336baefac67",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d6357eaa-fb31-4215-b41c-9336baefac67.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for verification that Ollama is running and TTS executable permissions are set."
+  },
+  {
+    "session_id": "e063b098-1837-4f3e-8745-da295e0df0a1",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e063b098-1837-4f3e-8745-da295e0df0a1.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for repository location and commit range to locate DATABASE_DESIGN file changes."
+  },
+  {
+    "session_id": "d6357eaa-fb31-4215-b41c-9336baefac67",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/d6357eaa-fb31-4215-b41c-9336baefac67.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation to enable TTS error logging, add --announce flag, and set executable permission on user_prompt_submit.py."
+  },
+  {
+    "session_id": "e063b098-1837-4f3e-8745-da295e0df0a1",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e063b098-1837-4f3e-8745-da295e0df0a1.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation of database usage and location of the DESIGN file."
+  },
+  {
+    "session_id": "e9a33f5d-1441-4c00-a8c8-4b7c9bad515f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-radar-triage-agent-manager/e9a33f5d-1441-4c00-a8c8-4b7c9bad515f.jsonl",
+    "cwd": "/Users/omerbensalmon/radar-triage-agent-manager",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation on classification column in database and UI specs."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for list of required Python dependencies (e.g., pyttsx3) to include in the README."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user input on desired changes to the TTS hook and conversation summarizer."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for final approval of the comprehensive README content before publishing."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user confirmation that the README meets requirements or request specific modifications."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for confirmation that the revised README is approved."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for the original text or desired formatting guidelines to correct indentation."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for the raw directory tree or markdown snippet that needs formatting."
+  },
+  {
+    "session_id": "8e953d21-a212-4dd5-920f-3c9606591d4e",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/8e953d21-a212-4dd5-920f-3c9606591d4e.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for the file path or content that needs tree formatting correction."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for confirmation to apply updated hook commands."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation to disable --summary on notification.py and stop.py to reduce TTS delays."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user confirmation on enabling async summarizer to reduce TTS delays."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for test execution details and environment configuration."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for conversation termination to trigger summary TTS."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for your confirmation on updated hook changes."
+  },
+  {
+    "session_id": "test",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Testing TTS",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for hook execution confirmation to test TTS."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user confirmation of audible test playback."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for your confirmation that the voice was heard."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for stable internet to fetch PyPI packages."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for final deployment approval before closing session."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for return code and any error messages after session ends."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for updated settings.json with correct hook commands."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for confirmation of single TTS announcement after file creation."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for user confirmation of single TTS announcement."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation that TTS optimization and double announcement removal are complete."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for user to choose image color now."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for color choice for new blank image."
+  },
+  {
+    "session_id": "443cc2f0-d9b3-42b5-be82-fb29753f0b6f",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/443cc2f0-d9b3-42b5-be82-fb29753f0b6f.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "State the needed input in 8\u201112 words, starting with \"Waiting for\"."
+  },
+  {
+    "session_id": "f91d6c05-e6f6-4f37-a948-8bb4c48e78bc",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/f91d6c05-e6f6-4f37-a948-8bb4c48e78bc.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for both `--summary` and `--notify` flags to trigger TTS."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for text-to-speech test message to trigger stop hook"
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for user to stop session via Ctrl+C or Ctrl+D"
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for final approval to integrate hook logic."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for approval to merge unified hook changes."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for color selection to fill the blank image."
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for color choice for blank image"
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for feature name to execute PRP"
+  },
+  {
+    "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/fb127759-4e09-47dd-bde6-62fe81a20975.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for PRPs/INITIAL.md specification to generate full PRP."
+  },
+  {
+    "session_id": "a4b5fb07-12c4-4dcb-987e-1da85a2f0616",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/a4b5fb07-12c4-4dcb-987e-1da85a2f0616.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for access to the hooks directory contents."
+  },
+  {
+    "session_id": "a4b5fb07-12c4-4dcb-987e-1da85a2f0616",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/a4b5fb07-12c4-4dcb-987e-1da85a2f0616.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for clarification on which messages to use."
+  },
+  {
+    "session_id": "a4b5fb07-12c4-4dcb-987e-1da85a2f0616",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/a4b5fb07-12c4-4dcb-987e-1da85a2f0616.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for confirmation to change n=3 to n=1."
+  },
+  {
+    "session_id": "a4b5fb07-12c4-4dcb-987e-1da85a2f0616",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/a4b5fb07-12c4-4dcb-987e-1da85a2f0616.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for final approval to modify text-to-speech hooks."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for concrete examples of expert agent types and creation scenarios."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "generated_summary": "Waiting for knowledge base path, expert name, and description."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for skill name, required directories, and target path."
+  },
+  {
+    "session_id": "9b49de1b-829e-458d-b6dd-35734dbf36dd",
+    "transcript_path": "/Users/omerbensalmon/.claude/projects/-Users-omerbensalmon-Desktop-Apple-Work-related-stuff-code-repos-claude-configuration/9b49de1b-829e-458d-b6dd-35734dbf36dd.jsonl",
+    "cwd": "/Users/omerbensalmon/Desktop/Apple/Work_related_stuff/code_repos/claude_configuration",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash",
+    "notification_type": "permission_prompt",
+    "generated_summary": "Waiting for a packaging script that correctly handles emoji encoding."
+  }
+]

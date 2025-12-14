@@ -1,0 +1,7 @@
+{
+  "session_id": "c6a6ceea-84a8-42cd-be75-33e8309e95d0",
+  "prompts": [
+    "The text to speach hook after each time isnt good enogh, I want you to go over the conversation summarry and make sure that it takes more then the last line but takes a few lines back and them summerzie it."
+  ],
+  "agent_name": "Axiom"
+}

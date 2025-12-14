@@ -1,0 +1,9 @@
+{
+  "session_id": "07ace9e5-9f3f-47af-8b8a-abb491a7b779",
+  "prompts": [
+    "In this project we have the .claude directory and there the meta agent and the work completion summerry agent are defined, chagne there model to be inheretird from the main agent",
+    "when I run the agents command I see that it shows sonet and not inherits why is that?",
+    "I editted the yaml files and still I dont see that the model changed from sonet to inherit in the meta agent adn work copletion summerry agent "
+  ],
+  "agent_name": "Seraphim"
+}

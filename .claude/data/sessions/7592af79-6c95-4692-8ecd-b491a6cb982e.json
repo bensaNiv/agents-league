@@ -1,0 +1,11 @@
+{
+  "session_id": "7592af79-6c95-4692-8ecd-b491a6cb982e",
+  "prompts": [
+    "Hi",
+    "I have he hooks for text to speach and yet when I send prompts to you its not speaking why is that?",
+    "search for it in the .claude dirtory of this project ",
+    "so according to the info you just gave me in what situation whne I send you a propmt will you give me a voice reply ",
+    "what is the definition of a \"When the session ends\""
+  ],
+  "agent_name": "Aeonis"
+}

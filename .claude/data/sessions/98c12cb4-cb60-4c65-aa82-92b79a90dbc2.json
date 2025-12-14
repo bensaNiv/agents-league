@@ -1,0 +1,6 @@
+{
+  "session_id": "98c12cb4-cb60-4c65-aa82-92b79a90dbc2",
+  "prompts": [
+    "go over the implementation tasks in @MULTI_REPO_IMPLEMENTATION_PLAN.md \\\nunderstand what needs to be done, use youre subagents to delegate udnerstanding and core planning functionality tasks to them.\\\nIf somthing is unclear ask me."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "session_id": "0bd9cbf8-4038-4f02-8192-4f945734ccdc",
+  "prompts": [
+    "I want you to create an agent that searches the codebase each time the main agent needs to understand the code structure where files are located or in general understand code ",
+    "use the sub agent mets-agent for it",
+    "tell me which area of the code is responsible for the radar scrapper ",
+    "\u23fa codebase-explorer(Find radar scraper code)\n  \u23bf  Initializing\u2026\n  \u23bf  Error: Agent type 'codebase-explorer' not found. Available agents: general-purpose, statusline-setup, Explore, Plan, work-completion-summary, meta-agent\\\n\\\nwaht is this error why cant I use my agent?",
+    "\u23fa codebase-explorer(Find radar scraper code)\n  \u23bf  Initializing\u2026\n  \u23bf  Error: Agent type 'codebase-explorer' not found. Available agents: general-purpose, statusline-setup, Explore, Plan, work-completion-summary, meta-agent\\\n\\\nwaht is this error why cant I use my agent?",
+    "does this built in Explore agent uses a different contex window from the main agent?",
+    "create a subagent that is a code reviewer\\\n\\\n---\nname: reviewer\ndescription: Strict code reviewer. Use proactively before committing to check for bugs, security issues, and style violations.\ntools: Bash, Read, Grep, Glob\nmodel: sonnet\n---\nYou are a Senior Principal Engineer known for strict, high-quality code reviews.\nYour goal is to catch bugs, security flaws, and anti-patterns BEFORE they are committed.\n\n**Instructions:**\n1.  Check `git diff` to see what has changed.\n2.  Critique the code for:\n    * **Correctness:** logic errors, off-by-one errors, edge cases.\n    * **Security:** SQL injection, XSS, exposed secrets, unchecked inputs.\n    * **Performance:** N+1 queries, expensive loops, memory leaks.\n    * **Maintainability:** variable naming, function size, lack of comments.\n3.  If you find issues, provide specific, actionable fix suggestions (code snippets).\n4.  If the code is good, explicitly state \"LGTM\" with a brief summary of what was verified.\\\n\\\nuse the meta-agent to create it"
+  ],
+  "agent_name": "Syrena"
+}

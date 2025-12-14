@@ -1,0 +1,12 @@
+{
+  "session_id": "0d707033-3ae8-436d-b74c-c65537d1df78",
+  "prompts": [
+    "update the readme file for this project",
+    "I hve an agent that is called writer that is expert for creating the readme files\\\nwhy didnt you use it in the previeus prompt?",
+    "I dont wnat you to use it I want you to explaine to me why didnt you use it",
+    "update the markdown file for this project and add to youre memmorry to first search if there is a sub agent that can perform the task you were given ",
+    "No I dont wnat you to update the readme file I want you to update the CLAUDE.md file and add to youre memmorry to always search if you have a subagent that can perform the task better then you",
+    "no need to list all of the subagents avaible, give instructions for claude code in the CLAUDE.md and in the memmory to alawys search of there is a subagent that is a specialist and can perform a task for him\\\nhe needs to udnerstnad from the agents descriptions if they are suited for the task he needs to operate  "
+  ],
+  "agent_name": "Lumenor"
+}

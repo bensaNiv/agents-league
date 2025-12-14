@@ -1,0 +1,6 @@
+{
+  "session_id": "55e04c81-f9a9-4d87-a66d-c59649b85dfe",
+  "prompts": [
+    "when running the flow of create agent we get this value error:\\\n\\\n? Mail recipients (comma-separated): o_bensalmon@apple.com\n\u274c 1 validation error for RadarConfig\nrepo_urls\n  Value error, Invalid repository URL format: temp. Must start with ssh:// or https:// [type=value_error, \ninput_value=['temp'], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error\nPlease correct the email addresses and try again.\\\n\\\n"
+  ]
+}

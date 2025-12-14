@@ -1,0 +1,90 @@
+# Pre-commit configuration for {{PROJECT_NAME}}
+# Install with: uv add --dev pre-commit && uv run pre-commit install
+
+repos:
+  # Ruff - Fast Python linter and formatter
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.1.6
+    hooks:
+      - id: ruff
+        name: ruff-lint
+        args: [--fix, --exit-non-zero-on-fix]
+      - id: ruff-format
+        name: ruff-format
+
+  # MyPy - Static type checking
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.7.1
+    hooks:
+      - id: mypy
+        name: mypy-check
+        additional_dependencies: [types-requests]
+        args: [--strict]
+
+  # Security scanning
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.5
+    hooks:
+      - id: bandit
+        name: bandit-security
+        args: [-c, pyproject.toml]
+        additional_dependencies: ["bandit[toml]"]
+
+  # General pre-commit hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+        name: trim-whitespace
+      - id: end-of-file-fixer
+        name: fix-eof
+      - id: check-yaml
+        name: check-yaml
+      - id: check-toml
+        name: check-toml
+      - id: check-json
+        name: check-json
+      - id: check-merge-conflict
+        name: check-merge
+      - id: check-added-large-files
+        name: check-large-files
+        args: [--maxkb=500]
+      - id: debug-statements
+        name: debug-statements
+      - id: check-docstring-first
+        name: check-docstrings
+
+  # Local hooks using uv
+  - repo: local
+    hooks:
+      - id: tests
+        name: run-tests
+        entry: uv run --no-sync --offline pytest --tb=short
+        language: system
+        pass_filenames: false
+        always_run: true
+        stages: [commit]
+
+      - id: coverage-check
+        name: coverage-check
+        entry: uv run --no-sync --offline pytest --cov={{PROJECT_NAME}} --cov-fail-under=80
+        language: system
+        pass_filenames: false
+        stages: [push]
+
+# Configuration
+default_stages: [commit]
+fail_fast: false
+
+# CI configuration (optional)
+ci:
+  autofix_commit_msg: |
+    [pre-commit.ci] auto fixes from pre-commit hooks
+
+    for more information, see https://pre-commit.ci
+  autofix_prs: true
+  autoupdate_branch: ''
+  autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
+  autoupdate_schedule: weekly
+  skip: []
+  submodules: false

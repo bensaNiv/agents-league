@@ -1,0 +1,14 @@
+{
+  "session_id": "fb127759-4e09-47dd-bde6-62fe81a20975",
+  "prompts": [
+    "test the text to speach hook by stoping the session after a few tokens ran",
+    "test it again I was without my volume on ",
+    "For some reason I hear the summary message but after a few seconds to a few minutes I hear another text to speach,\\\ngo over teh code and the logs and try to understand why this is happening \\\ndont offer a fix offer a reason ",
+    "Lets have a unified hook, since we are generating a summarry and notifying I want the following\\\n1.if notify flag is active without summarry then it give a text to sepach with a random message\\\n2. if summarry is active and not notify then it does nothing \\\n3. if both of them are active then it will notfiy with the summarry message \\\n\\\nall actions will be sync from now on without any async.\\\n\\\ngo over teh code and give me an impkementation suggestion",
+    "show me the plan of action for approval",
+    "Lets test create some dummy stop to see that we get a text to sepach in the proper manner ",
+    "great it works amazing!\\\nnow I want to test that I can hear the text to speach when you are waiting for an input from me \\\ngive me a fake waiting for input \\\ncraete a blank page and ask me what color to use \\\nwhite green or red ",
+    "Add to the readme an explanation about the PRP\\\nproduct ready prompt \\\nwe fill in the PRPs/INITIAL.md (use the INITIAL_EXAMPLE.md to see a reffrance) the we use the generate prp command to generate the prp \\\nwe go over it give rjecats and then we execute the prp with the execute prp command \\\nadd a section and add it to the table of contex as well ",
+    "you didnt add the prp commands to the commands table "
+  ]
+}

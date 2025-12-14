@@ -1,0 +1,315 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.8"
+# dependencies = []
+# ///
+
+import json
+import os
+import sys
+from pathlib import Path
+from typing import Optional, List, Dict
+
+# Import ollama utility - handle both relative and absolute imports
+try:
+    from .ollama import prompt_llm
+except ImportError:
+    # If running as standalone script, use absolute import
+    script_dir = Path(__file__).parent
+    sys.path.insert(0, str(script_dir))
+    from ollama import prompt_llm
+
+
+def read_transcript(transcript_path: str) -> Optional[List[Dict]]:
+    """
+    Read and parse a .jsonl transcript file.
+
+    Args:
+        transcript_path: Path to the .jsonl transcript file
+
+    Returns:
+        List of parsed JSON objects, or None if error
+    """
+    try:
+        if not os.path.exists(transcript_path):
+            return None
+
+        transcript_data = []
+        with open(transcript_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    try:
+                        transcript_data.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        pass  # Skip invalid lines
+
+        return transcript_data if transcript_data else None
+
+    except Exception:
+        return None
+
+
+def extract_conversation_turns(transcript_data: List[Dict]) -> str:
+    """
+    Extract user and assistant messages from transcript data.
+
+    Args:
+        transcript_data: List of transcript entries
+
+    Returns:
+        Formatted string with conversation turns
+    """
+    conversation_text = []
+
+    for entry in transcript_data:
+        # Extract message content based on transcript format
+        if 'type' in entry:
+            if entry['type'] == 'user_message' and 'content' in entry:
+                user_content = entry['content']
+                if isinstance(user_content, list):
+                    # Extract text from content blocks
+                    text_parts = [block.get('text', '') for block in user_content if block.get('type') == 'text']
+                    if text_parts:
+                        conversation_text.append(f"User: {' '.join(text_parts)}")
+                elif isinstance(user_content, str):
+                    conversation_text.append(f"User: {user_content}")
+
+            elif entry['type'] == 'assistant_message' and 'content' in entry:
+                assistant_content = entry['content']
+                if isinstance(assistant_content, list):
+                    # Extract text from content blocks
+                    text_parts = [block.get('text', '') for block in assistant_content if block.get('type') == 'text']
+                    if text_parts:
+                        conversation_text.append(f"Assistant: {' '.join(text_parts)}")
+                elif isinstance(assistant_content, str):
+                    conversation_text.append(f"Assistant: {assistant_content}")
+
+    return "\n".join(conversation_text)
+
+
+def get_last_assistant_message(transcript_data: List[Dict]) -> Optional[str]:
+    """
+    Extract the last assistant message from transcript.
+
+    Args:
+        transcript_data: List of transcript entries
+
+    Returns:
+        Last assistant message text, or None if not found
+    """
+    for entry in reversed(transcript_data):
+        # Check for type=assistant with message.role=assistant
+        if entry.get('type') == 'assistant' and entry.get('message', {}).get('role') == 'assistant':
+            message_content = entry.get('message', {}).get('content', [])
+            if isinstance(message_content, list):
+                text_parts = [block.get('text', '') for block in message_content if block.get('type') == 'text']
+                if text_parts:
+                    return ' '.join(text_parts)
+            elif isinstance(message_content, str):
+                return message_content
+
+        # Also check for old format: type=assistant_message
+        elif entry.get('type') == 'assistant_message' and 'content' in entry:
+            assistant_content = entry['content']
+            if isinstance(assistant_content, list):
+                text_parts = [block.get('text', '') for block in assistant_content if block.get('type') == 'text']
+                if text_parts:
+                    return ' '.join(text_parts)
+            elif isinstance(assistant_content, str):
+                return assistant_content
+
+    return None
+
+
+def get_last_n_assistant_messages(transcript_data: List[Dict], n: int = 5, max_chars: int = 5000) -> Optional[str]:
+    """
+    Extract the last N assistant messages from transcript.
+
+    Args:
+        transcript_data: List of transcript entries
+        n: Number of assistant messages to retrieve (default: 5)
+        max_chars: Maximum total characters to return (default: 5000)
+
+    Returns:
+        Combined assistant messages with chronological markers, or None if not found
+    """
+    assistant_messages = []
+    total_chars = 0
+
+    for entry in reversed(transcript_data):
+        if len(assistant_messages) >= n:
+            break
+
+        message_text = None
+
+        # Check for type=assistant with message.role=assistant
+        if entry.get('type') == 'assistant' and entry.get('message', {}).get('role') == 'assistant':
+            message_content = entry.get('message', {}).get('content', [])
+            if isinstance(message_content, list):
+                text_parts = [block.get('text', '') for block in message_content if block.get('type') == 'text']
+                if text_parts:
+                    message_text = ' '.join(text_parts)
+            elif isinstance(message_content, str):
+                message_text = message_content
+
+        # Also check for old format: type=assistant_message
+        elif entry.get('type') == 'assistant_message' and 'content' in entry:
+            assistant_content = entry['content']
+            if isinstance(assistant_content, list):
+                text_parts = [block.get('text', '') for block in assistant_content if block.get('type') == 'text']
+                if text_parts:
+                    message_text = ' '.join(text_parts)
+            elif isinstance(assistant_content, str):
+                message_text = assistant_content
+
+        if message_text:
+            # Check if adding this message would exceed max_chars
+            if total_chars + len(message_text) > max_chars and assistant_messages:
+                # Truncate this message to fit within limit
+                remaining_chars = max_chars - total_chars
+                if remaining_chars > 100:  # Only add if we can include meaningful content
+                    message_text = message_text[:remaining_chars] + "..."
+                    assistant_messages.append(message_text)
+                break
+
+            assistant_messages.append(message_text)
+            total_chars += len(message_text)
+
+    if not assistant_messages:
+        return None
+
+    # Reverse to get chronological order (oldest to newest)
+    assistant_messages.reverse()
+
+    # Combine messages with markers
+    if len(assistant_messages) == 1:
+        return assistant_messages[0]
+    else:
+        combined = []
+        for i, msg in enumerate(assistant_messages, 1):
+            if i == len(assistant_messages):
+                combined.append(f"[Latest] {msg}")
+            else:
+                combined.append(f"[Step {i}] {msg}")
+        return "\n\n".join(combined)
+
+    return None
+
+
+def summarize_conversation(transcript_path: str, summary_type: str = "completion") -> Optional[str]:
+    """
+    Generate an AI summary of a conversation using Ollama.
+
+    Args:
+        transcript_path: Path to the .jsonl transcript file
+        summary_type: Type of summary to generate
+            - "completion": Summarize what was accomplished (for Stop hook)
+            - "waiting": Summarize what input is needed (for Notification hook)
+
+    Returns:
+        One-sentence summary string, or None if error
+    """
+    try:
+        # Read transcript
+        transcript_data = read_transcript(transcript_path)
+        if not transcript_data:
+            return None
+
+        # Generate summary based on type
+        if summary_type == "completion":
+            # Get the last 3 assistant messages for context
+            messages = get_last_n_assistant_messages(transcript_data, n=3, max_chars=5000)
+            if not messages:
+                return None
+
+            prompt = f"""Based on these recent messages from an AI coding assistant, generate a concise 1 sentence summary of what was accomplished.
+
+Recent assistant activity:
+{messages}
+
+Requirements:
+- 1 sentence only (8-12 words maximum)
+- Capture the main accomplishment
+- Use past tense
+- Be specific and informative
+- No quotes, bullet points, or special formatting
+- Return ONLY the summary
+
+Examples:
+- "Analyzed TTS hooks and identified delay causes."
+- "Fixed ollama extraction and updated settings."
+- "Created summarizer utility and integrated hooks."
+
+Summary:"""
+
+        elif summary_type == "waiting":
+            # Get the last 3 assistant messages for context
+            messages = get_last_n_assistant_messages(transcript_data, n=3, max_chars=5000)
+
+            if not messages:
+                return None
+
+            prompt = f"""Based on these recent messages from an AI coding assistant, generate a concise 1 sentence summary of what input is needed.
+
+Recent assistant activity:
+{messages}
+
+Requirements:
+- 1 sentence only (8-12 words maximum)
+- Start with "Waiting for" or indicate what's needed
+- Be specific about the requirement
+- No quotes, bullet points, or special formatting
+- Return ONLY the summary
+
+Examples:
+- "Waiting for plan approval to modify hooks."
+- "Waiting for authentication method selection."
+- "Waiting for test coverage requirements."
+
+Summary:"""
+
+        else:
+            return None
+
+        # Call Ollama
+        response = prompt_llm(prompt)
+
+        # Clean up response
+        if response:
+            response = response.strip().strip('"').strip("'").strip()
+            # Take first sentence only
+            sentences = response.split(". ")
+            if len(sentences) > 1:
+                response = sentences[0] + "."
+            # Ensure it's not too long (8-12 words target, allow up to 100 chars)
+            if len(response) > 100:
+                response = response[:100].rsplit(' ', 1)[0] + "..."
+
+            return response
+
+        return None
+
+    except Exception:
+        return None
+
+
+def main():
+    """Command line interface for testing."""
+    if len(sys.argv) < 3:
+        print("Usage: ./conversation_summarizer.py <transcript_path> <completion|waiting>")
+        sys.exit(1)
+
+    transcript_path = sys.argv[1]
+    summary_type = sys.argv[2]
+
+    summary = summarize_conversation(transcript_path, summary_type)
+
+    if summary:
+        print(summary)
+    else:
+        print("Error generating summary")
+
+
+if __name__ == "__main__":
+    main()

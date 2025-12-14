@@ -1,0 +1,10 @@
+{
+  "session_id": "8f407c79-6ca5-4d6f-9e42-a452d831f744",
+  "prompts": [
+    "Go over the meta-agent and explaine to me how can I use this agent",
+    "I would like you to create for me a sub-agent that will go over the codebase any time my main agent needs to explore the code base and understand the code structure ",
+    " 1. Explore agent - For rapid, targeted analysis of codebases\n  2. codebase-explorer - For answering specific questions about structure, dependencies, and implementation\\\n\\\nexplaine to me where do these agent reside because they dont exists in the current .claude directory ",
+    "I want you to make all of the agents have an inherit model "
+  ],
+  "agent_name": "Protis"
+}

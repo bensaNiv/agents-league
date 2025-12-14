@@ -1,0 +1,7 @@
+{
+  "session_id": "test123",
+  "prompts": [
+    "test prompt"
+  ],
+  "agent_name": "Solstice"
+}

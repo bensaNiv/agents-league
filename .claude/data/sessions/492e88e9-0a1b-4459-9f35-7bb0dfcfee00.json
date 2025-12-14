@@ -1,0 +1,10 @@
+{
+  "session_id": "492e88e9-0a1b-4459-9f35-7bb0dfcfee00",
+  "prompts": [
+    "I have the hooks for the text to speach and I dont hear them run \\\ngo over the .claude directory that includes the settigs.json and tell me what do I need to do to have the text to sepach hooks run ",
+    "enable option 2 for me",
+    "Great now we have the @logs/ directory that holds all of the claude code logs that we are creating from the hooks and agents and tools, I want that this logs file to move the the .claude/ directory \\\ngo over the files in the .cladue directory and create a comprehensive plan of how to have this migration ",
+    "great now lets return to the questions of what is the differance between each status line version explaine that to me again please "
+  ],
+  "agent_name": "Marque"
+}

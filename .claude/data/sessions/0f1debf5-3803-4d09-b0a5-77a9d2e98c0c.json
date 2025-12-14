@@ -1,0 +1,9 @@
+{
+  "session_id": "0f1debf5-3803-4d09-b0a5-77a9d2e98c0c",
+  "prompts": [
+    "Hi",
+    "In the .claude directory we have the status_lines direcotry that holds versions\\\nwhat is the differance between each version of the file",
+    "How can I make my claude code run the latest version "
+  ],
+  "agent_name": "Verity"
+}
