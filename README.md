@@ -31,7 +31,7 @@ A multi-agent system for playing an even/odd parity game with automated tourname
 brew install uv
 
 # Clone and install dependencies
-git clone <repo-url>
+git clone git@github.com:OmerBS123/agents-league.git
 cd distributed-ai-agent-league
 uv sync --all-groups
 ```
